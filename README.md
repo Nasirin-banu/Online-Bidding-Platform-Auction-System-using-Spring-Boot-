@@ -42,10 +42,9 @@ Integration with a relational or NoSQL database
 Implementation of authentication and authorization
 Real-time bidding functionality
 Integration with online payment services
-Author
 
-Nasi
+Author
+Nasirin Banu
 
 License
-
 This project is available for academic and learning purposes.
