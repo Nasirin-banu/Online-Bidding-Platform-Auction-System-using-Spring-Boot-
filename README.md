@@ -17,11 +17,12 @@ HTML, CSS, JavaScript
 JSON (data storage)
 
 # Project Structure
-backend/
-│── src/main/java/        Application source code
-│── src/main/resources/   Configuration and static files
-│── data/                 JSON data storage
-│── pom.xml               Project dependencies
+- backend/
+- src/main/java/        Application source code
+- src/main/resources/   Configuration and static files
+- data/                 JSON data storage
+- pom.xml               Project dependencies
+
 Installation and Setup
 
 # Clone the repository
