@@ -1,0 +1,24 @@
+{
+  "pending" : [ ],
+  "accepted" : [ {
+    "productId" : 1,
+    "productName" : "nk",
+    "buyer" : "Nasirin",
+    "buyerEmail" : "asdfghjkl@gmail.com",
+    "amount" : 2000,
+    "date" : "2026-03-19",
+    "sellerId" : "nnasirinbanu05@gmail.com",
+    "id" : 7,
+    "status" : "accepted"
+  }, {
+    "productId" : 1,
+    "productName" : "nk",
+    "buyer" : "Nasirin",
+    "buyerEmail" : "asdfghjkl@gmail.com",
+    "amount" : 2000,
+    "date" : "2026-03-19",
+    "sellerId" : "nnasirinbanu05@gmail.com",
+    "id" : 8,
+    "status" : "accepted"
+  } ]
+}

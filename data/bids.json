@@ -1,0 +1,37 @@
+[ {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1263,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1295,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1344,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1375,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1388,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "amount" : 1430,
+  "time" : "Just now"
+}, {
+  "auctionId" : 1,
+  "name" : "Nasirin",
+  "bidderEmail" : "asdfghjkl@gmail.com",
+  "amount" : 2000,
+  "time" : "7:45:06 PM"
+} ]

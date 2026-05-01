@@ -1,0 +1,11 @@
+[ {
+  "userType" : "buyer",
+  "name" : "Nasirin",
+  "email" : "asdfghjkl@gmail.com",
+  "password" : "12345678"
+}, {
+  "userType" : "seller",
+  "name" : "Nasirinn",
+  "email" : "nnasirinbanu05@gmail.com",
+  "password" : "123456"
+} ]
