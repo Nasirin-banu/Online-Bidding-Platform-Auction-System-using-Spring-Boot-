@@ -16,6 +16,23 @@ Maven
 HTML, CSS, JavaScript
 JSON (data storage)
 
+# Technology Stack
+Java
+Spring Boot
+Maven
+HTML, CSS, JavaScript
+JSON (data storage)
+
+# Architecture
+
+The application follows a layered structure:
+
+Presentation Layer: Handles user interface and requests
+Application Layer: Processes business logic (bidding, orders)
+Data Layer: Stores and retrieves data using JSON files
+
+This design improves modularity and maintainability.
+
 # Project Structure
 backend/
 - src/main/java/        (Application source code)
