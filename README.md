@@ -35,10 +35,10 @@ This structure improves modularity and maintainability.
 ## Project Structure
 
 backend/
-│── src/main/java/        (Application source code)
-│── src/main/resources/   (Configuration and static files)
-│── data/                 (JSON data storage)
-│── pom.xml               (Project dependencies)
+── src/main/java/        (Application source code)
+── src/main/resources/   (Configuration and static files)
+── data/                 (JSON data storage)
+── pom.xml               (Project dependencies)
 
 ## Installation and Setup
 
